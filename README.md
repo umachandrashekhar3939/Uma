@@ -20,11 +20,11 @@ About Me
  💬 Ask me about Java, Spring Boot, REST APIs, React, SQL, and project structuring.<br><br>
 
   📫 Reach me at:
-  <a href="mailto:yashaswinihp23123@gmail.com">yashaswinihp23123@gmail.com</a><br>
+  <a href="mailto:umachandrashekhar3939@gmail.com">yashaswinihp23123@gmail.com</a><br>
   💼 LinkedIn:
-  <a href="https://www.linkedin.com/in/yashaswini-hp-2003hp123" target="_blank">linkedin.com/in/yashaswini-hp-2003hp123</a><br>
+  <a href="https://www.linkedin.com/in/uma-chandrashekhar5" target="_blank">linkedin.com/in/yashaswini-hp-2003hp123</a><br>
   🌐 Portfolio:
-  <a href="https://yashaswinihp.framer.website/" target="_blank">yashaswinihp.framer.website</a>
+  <a href="https://Uma.framer.website/" target="_blank">Uma.framer.website</a>
 </p>
 
 ###
