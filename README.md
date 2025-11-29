@@ -1,5 +1,6 @@
-⚡ I’m a beginner developer learning React, Java, Spring Boot, and SQL. I enjoy building small projects that help me improve my skills step by step. Currently working on front-end projects and exploring backend development.
-About Me
+🚀 About Me
+
+I'm a Java Full Stack Developer with strong hands-on experience in designing, building, and deploying scalable applications. I specialize in Spring Boot, Microservices, JPA/Hibernate, and modern front-end technologies like React. I enjoy solving real-world problems and writing clean, efficient, and maintainable code.
 <h1 align="left">Hi there 👋</h1>
 
 ###
