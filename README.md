@@ -70,7 +70,7 @@ Cloud Deployments with AWS & Docker
 
 🔗 LinkedIn: Add your link here
 
-📧 Email: your-email@example.com
+📧 Email: umachandrashekhar3939@gmail.com
 
 💻 Portfolio: your-website.com (optional)
 
