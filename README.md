@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-  🔭 I’m currently working on a multi-step Bike Service Booking Application using Spring Boot, Thymeleaf, and MySQL.<br>
-  🌱 I’m learning Java Full Stack Development (Spring Boot, React, SQL) and exploring DevOps tools.<br>
+  🔭 I have completed project on Course Enrollment & Payment Application System using Spring Boot, Thymeleaf, and MySQL.<br>
+  🌱 I have completed Java Full Stack Development (Spring Boot, React, SQL) and exploring DevOps tools.<br>
   👯 I’m looking to collaborate on open-source projects in Full Stack Development and business automation solutions.<br>
   🤔 I’m seeking help with optimizing backend workflows and scaling Spring Boot applications.<br>
   💬 Ask me about Java, Spring Boot, REST APIs, React, SQL, and project structuring.<br><br>
