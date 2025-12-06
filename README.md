@@ -1,77 +1,60 @@
-👋 Hi, I'm Uma — Java Full Stack Developer
-🚀 About Me
+<h1 align="left">Hi there 👋</h1>
 
-I'm a Java Full Stack Developer with strong hands-on experience in designing, building, and deploying scalable applications. I specialize in Spring Boot, Microservices, JPA/Hibernate, and modern front-end technologies like React. I enjoy solving real-world problems and writing clean, efficient, and maintainable code.
+###
 
-🧰 Tech Stack & Skills
-Backend Development
+<p align="left">I’m Uma, an aspiring software engineer with strong expertise in Java development, web technologies, and problem-solving.</p>
 
-☕ Java 8/11/17
+###
 
-🚀 Spring Boot, Spring MVC, Spring Security, Spring Data JPA
+<h2 align="left">About me</h2>
 
-🗄️ Hibernate, JPA
+###
 
-🧩 Microservices, REST APIs, OpenAPI/Swagger
+<p align="left">
+  🔭 I’m currently working on a multi-step Bike Service Booking Application using Spring Boot, Thymeleaf, and MySQL.<br>
+  🌱 I’m learning Java Full Stack Development (Spring Boot, React, SQL) and exploring DevOps tools.<br>
+  👯 I’m looking to collaborate on open-source projects in Full Stack Development and business automation solutions.<br>
+  🤔 I’m seeking help with optimizing backend workflows and scaling Spring Boot applications.<br>
+  💬 Ask me about Java, Spring Boot, REST APIs, React, SQL, and project structuring.<br><br>
 
-📦 Maven, Gradle
+  📫 Reach me at:
+  <a href="mailto:umachandrashekhar3939@gmail.com">umachandrashekhar3939@gmail.com</a><br>
+  💼 LinkedIn:
+  <a href="https://www.linkedin.com/in/uma-chandrashekhar5" target="_blank">linkedin.com/in/uma-chandrashekhar5</a><br>
+</p>
 
-🧪 JUnit, Mockito
+###
 
-Frontend Development
+<h2 align="left">I code with</h2>
 
-⚛️ React JS, JavaScript (ES6)
+###
 
-🎨 HTML5, CSS3, Bootstrap, Tailwind
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
 
-DevOps & Tools
-
-🐳 Docker, Docker Compose
-
-☁️ AWS Basics, EC2, S3
-
-🔁 Git, GitHub, GitLab
-
-🧰 Postman, IntelliJ, VS Code
-
-Databases
-
-🟦 MySQL, PostgreSQL
-
-🟧 MongoDB (Basics)
-
-📚 Featured Projects
-🔹 Student Management System (Spring Boot + React)
-
-A full-stack CRUD application with form validation, API integration, and database persistence.
-
-🔹 E-Commerce Microservice App
-
-Independent modules for product, order, and payment services with Eureka, API Gateway & JWT Security.
-
-🔹 Email Verification System
-
-Spring Boot application with OTP/Token verification using JavaMailSender.
-
-📊 GitHub Stats
-
-
-
-
-🌱 What I'm Currently Learning
-
-Advanced Microservices Architecture
-
-React Performance Optimization
-
-Cloud Deployments with AWS & Docker
-
-💼 Let's Connect
-
-🔗 LinkedIn: Add your link here
-
-📧 Email: umachandrashekhar3939@gmail.com
-
-💻 Portfolio: your-website.com (optional)
-
-⭐ Feel free to explore my repositories and drop a ⭐ if you find something useful!
+###
